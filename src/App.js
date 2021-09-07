@@ -1,11 +1,11 @@
 import './App.css';
+import MenuCover from './assets/pages/menu-cover';
 
 function App() {
   return (
-    <div>
-    <h1>MENÚ</h1>
-      
-    </div>
+    
+    <MenuCover />
+    
   );
 }
 
