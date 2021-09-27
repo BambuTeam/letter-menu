@@ -1,11 +1,135 @@
+@font-face {
+	font-family: Font_Primary_Ligth;
+	src: url(../fonts/Orpheus-Light.otf);
+  }
+
+  @font-face {
+	font-family: Font_Primary_Medium;
+	src: url(../fonts/Orpheus-Medium.otf);
+  }
+
+
+
+@font-face {
+	font-family: Font_Primary_Bold;
+	src: url(../fonts/Orpheus-Bold.otf);
+  }
+
+
+
+
+@font-face {
+	font-family: Font_Secondary_Black;
+	src: url(../fonts/Vezus-Black.ttf);
+  }
+
+  @font-face {
+	font-family: Font_Secondary_Black;
+	src: url(../fonts/Vezus-Black.ttf);
+  }
+
+
+
+
+
+
 
 body{
-    background-color: $bg_secundary !important;
+    background: linear-gradient(-65deg, #1C3532, #1a312f, #1a312f, #1C3532);
+	background-size: 400% 400%;
+	animation: gradient 25s ease infinite;
+	height: 100vh;
 }
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
 
 .Logo-Menu img{
     display: block;
+	margin-bottom: 35px;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 25%;
+}
+
+
+.border-rigth{
+	border-right: solid 1px #F4EFE9;
+}
+
+
+	.Container_menu1{
+		margin-top: 10px;
+		margin-bottom: 25px;
+	}
+
+
+
+.Btn_Style_1{
+
+	img{
+		max-width: 10%;
+		padding-right: 20px;
+	}
+
+
+
+	padding-top: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	button{
+		border-radius: 0px;
+		font-family: Font_Primary_Ligth;
+		letter-spacing: 3px;
+		font-size: 30px;
+		background: none;
+		border: solid 1px #F4EFE9;
+		padding: 25px;
+		justify-content: center;
+		text-align: center;
+	}
+
+	button:hover{
+		font-family: Font_Primary_Medium;
+		border-radius: 3px;
+		background-color: #F4EFE9;
+		border: solid 1px #F4EFE9;
+		color: #1C3532;
+		padding: 26px;
+
+	}
+
+
+	.btn-primary:focus{
+		font-family: Font_Primary_Medium;
+		border-radius: 3px;
+		background-color: #F4EFE9 !important;
+		border: solid 1px #F4EFE9;
+		color: #1C3532;
+		padding: 26px;
+		box-shadow: 0 0 0 0.25rem rgb(244 239 233 / 50%) !important;
+	}
+
+
+	.btn-check:active+.btn-primary:focus, .btn-check:checked+.btn-primary:focus, .btn-primary.active:focus, .btn-primary:active:focus, .show>.btn-primary.dropdown-toggle:focus {
+		box-shadow: 0 0 0 0.25rem rgb(244 239 233 / 50%) !important;
+	}
+
+
+
+	
 }
