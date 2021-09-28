@@ -33,7 +33,7 @@ const Desayunos = () => {
                 <Col xs={12} md={12} lg={10} className="Style_Desayuno_List" >
                 <h2>Plato de Frutas</h2>
                 </Col>
-                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List" >
+                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
                 <h2>Q.65</h2>
                 </Col>
 
@@ -57,7 +57,7 @@ const Desayunos = () => {
                 <Col xs={12} md={12} lg={10} className="Style_Desayuno_List" >
                 <h2>Típico de la Finca</h2>
                 </Col>
-                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List" >
+                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
                 <h2>Q.75</h2>
                 </Col>
 
@@ -81,7 +81,7 @@ const Desayunos = () => {
                 <Col xs={12} md={12} lg={10} className="Style_Desayuno_List" >
                 <h2>Desayuno Finquero</h2>
                 </Col>
-                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List" >
+                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
                 <h2>Q.110</h2>
                 </Col>
 
@@ -105,7 +105,7 @@ const Desayunos = () => {
                 <Col xs={12} md={12} lg={10} className="Style_Desayuno_List" >
                 <h2>Americano</h2>
                 </Col>
-                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List" >
+                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
                 <h2>Q.75</h2>
                 </Col>
 
@@ -129,7 +129,7 @@ const Desayunos = () => {
                 <Col xs={12} md={12} lg={10} className="Style_Desayuno_List" >
                 <h2>Divorciados</h2>
                 </Col>
-                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List" >
+                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
                 <h2>Q.80</h2>
                 </Col>
 
@@ -153,7 +153,7 @@ const Desayunos = () => {
                 <Col xs={12} md={12} lg={10} className="Style_Desayuno_List" >
                 <h2>Benedictinos</h2>
                 </Col>
-                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List" >
+                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
                 <h2>Q.80</h2>
                 </Col>
 
@@ -181,7 +181,7 @@ const Desayunos = () => {
                 <Col xs={12} md={12} lg={10} className="Style_Desayuno_List" >
                 <h2>Croque Madame</h2>
                 </Col>
-                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List" >
+                <Col xs={12} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
                 <h2>Q.80</h2>
                 </Col>
 
