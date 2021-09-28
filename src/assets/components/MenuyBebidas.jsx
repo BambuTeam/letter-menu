@@ -15,18 +15,18 @@ const MenuYBebidas = () => {
                 <Row >
 
                     <Col className="Btn_Style_1 border-rigth">
-                    <img src={Icobebida} alt="ico-restaurante" />
+                    <img src={Icorestaurante} alt="ico-restaurante" />
 
 
                     <Button>
-                        BEBIDAS
+                       COMIDA
                     </Button>
                     
                     </Col>
                     <Col className="Btn_Style_1">
-                    <img src={Icorestaurante} alt="ico-restaurante" />
+                    <img src={Icobebida} alt="ico-restaurante" />
                     <Button>
-                        COMIDA
+                    BEBIDAS
                     </Button>
                    
 

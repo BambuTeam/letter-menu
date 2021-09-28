@@ -24,8 +24,19 @@
   }
 
   @font-face {
-	font-family: Font_Secondary_Black;
-	src: url(../fonts/Vezus-Black.ttf);
+	font-family: Font_Secondary_Ligth;
+	src: url(../fonts/Vezus-Light.ttf);
+  }
+
+
+  @font-face {
+	font-family: Font_Secondary_Bold;
+	src: url(../fonts/Vezus-Bold.ttf);
+  }
+
+  @font-face {
+	font-family: Font_Secondary_Normal;
+	src: url(../fonts/Vezus.ttf);
   }
 
 
@@ -132,4 +143,54 @@ body{
 
 
 	
+}
+
+
+
+.Btn_Style_2{
+
+	img{
+		max-width: 10%;
+		padding-right: 20px;
+	}
+	padding-top: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	button{
+		width: 50%;
+		border-radius: 0px;
+		font-family: Font_Primary_Ligth;
+		letter-spacing: 3px;
+		font-size: 30px;
+		background: none;
+		border: solid 1px #F4EFE9;
+		padding: 25px;
+		justify-content: center;
+		text-align: center;
+	}
+
+	button:hover{
+		font-family: Font_Primary_Medium;
+		border-radius: 3px;
+		background-color: #F4EFE9;
+		border: solid 1px #F4EFE9;
+		color: #1C3532;
+		padding: 26px;
+
+	}
+
+
+	.btn-primary:focus{
+		font-family: Font_Primary_Medium;
+		border-radius: 3px;
+		background-color: #F4EFE9 !important;
+		border: solid 1px #F4EFE9;
+		color: #1C3532;
+		padding: 26px;
+		box-shadow: 0 0 0 0.25rem rgb(244 239 233 / 50%) !important;
+	}
+
+
 }
