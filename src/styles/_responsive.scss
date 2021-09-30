@@ -1,0 +1,93 @@
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait) {
+
+    .Logo-Menu img{
+        width: 80%;
+    }
+
+    .Patter_img img{
+        display: block;
+        margin: 0 auto;
+        
+    }
+
+    .Btn_Style_1 img{
+        display: none;
+
+        
+    }
+
+    .Btn_Style_1 button{
+        text-align: center;
+        padding: 5px;
+
+        :active{
+        padding: 5px;
+
+        }
+
+    }
+
+    .border-bottom{
+        border-bottom: solid 1px #F4EFE9;
+        padding-top: 100px;
+    }
+
+
+    .Btn_Style_1 button:hover {
+        font-family: Font_Primary_Medium;
+        border-radius: 3px;
+        background-color: #F4EFE9;
+        border: solid 1px #F4EFE9;
+        color: #1C3532;
+        padding: 5px;
+    }
+
+    .Btn_Style_1 .btn-primary:focus {
+        font-family: Font_Primary_Medium;
+        border-radius: 3px;
+        background-color: #F4EFE9 !important;
+        border: solid 1px #F4EFE9;
+        color: #1C3532;
+        padding: 5px;
+        box-shadow: 0 0 0 0.25rem rgb(244 239 233 / 50%) !important;
+    }
+
+    .border-rigth {
+        border-right: none;
+
+        
+    }
+
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+
+
+    .border-bottom{
+        display: none;
+    
+    }
+
+
+
+}

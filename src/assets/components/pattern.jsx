@@ -6,7 +6,7 @@ import Patterimg from '../img/pattern.svg';
 const PatternSection = () => {
     return (
 
-        <div className=" ">
+        <div className="Patter_img">
             <br />
             <Container fluid>
                 <Row >

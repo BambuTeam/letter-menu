@@ -14,30 +14,21 @@ const MenuYBebidas = () => {
             <Container fluid className="Container_menu1">
                 <Row >
 
-                    <Col className="Btn_Style_1 border-rigth">
-                    <img src={Icorestaurante} alt="ico-restaurante" />
-
-
+                    <Col xs={12} md={12} lg={6} className="Btn_Style_1 border-rigth">
+                    <img   src={Icorestaurante} alt="ico-restaurante" />
                     <Button>
                        COMIDA
                     </Button>
                     
                     </Col>
-                    <Col className="Btn_Style_1">
-                    <img src={Icobebida} alt="ico-restaurante" />
+                    <Col xs={12} md={12} lg={6} className="Btn_Style_1">
+                    <img    src={Icobebida} alt="ico-restaurante" />
                     <Button>
                     BEBIDAS
                     </Button>
-                   
-
-
-                    
-                    
-
-                    
                     </Col>
                 </Row>
-                
+                <div className="border-bottom"></div>
             </Container>
         </div>
     )
