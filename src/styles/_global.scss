@@ -195,3 +195,30 @@ body{
 
 
 }
+
+
+a.btn.btn-primary{
+	width: 50%;
+		border-radius: 0px;
+		font-family: Font_Primary_Ligth;
+		letter-spacing: 3px;
+		font-size: 30px;
+		background: none;
+		border: solid 1px #F4EFE9;
+		padding: 25px;
+		justify-content: center;
+		text-align: center;
+
+		button{
+			width: 50%;
+			border-radius: 0px;
+			font-family: Font_Primary_Ligth;
+			letter-spacing: 3px;
+			font-size: 30px;
+			background: none;
+			border: solid 1px #F4EFE9;
+			padding: 25px;
+			justify-content: center;
+			text-align: center;
+		}
+}

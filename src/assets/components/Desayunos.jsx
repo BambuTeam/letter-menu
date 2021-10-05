@@ -11,7 +11,7 @@ import Desayuno1_img from '../img/Desayunos/Desayuno_1.png';
 const Desayunos = () => {
     return (
 
-        <div className="content_desayunos">
+        <div className="content_desayunos" id="Desayuno_click">
             <br />
             <Container fluid className="Container_desayuno">
                 <Row >
