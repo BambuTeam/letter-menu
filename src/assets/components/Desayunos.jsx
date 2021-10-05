@@ -375,15 +375,13 @@ const Desayunos = () => {
                 
                 
             </Container>
-            <Row>
-                <Col xs={12} md={6} lg={6} className="Style_Desayuno_Img" >
+            <Row xs={12} md={6} lg={6} className="Style_Desayuno_Img">
+               
                 <img src={Desayuno1_img} alt="Desayno-1" />
                    
-                    </Col>
+                
 
-                    <Col xs={12} md={12} lg={12} className="Style_Desayuno_List" >
                    
-                    </Col>
                 </Row>
                 </Container>
                 
