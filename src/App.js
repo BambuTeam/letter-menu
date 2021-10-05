@@ -8,6 +8,7 @@ import Desayunos from './assets/components/Desayunos';
 
 
 
+
 function App() {
   return (
     <><MenuCover /><PatternSection />
@@ -16,6 +17,7 @@ function App() {
     <ListComida />
     <PatternSection2 />
     <Desayunos />
+    
     </>
       );
 }
