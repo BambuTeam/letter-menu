@@ -63,8 +63,40 @@
     }
 
     
+    a.btn.btn-primary{
+        width: 90%;
+        border-radius: 0px;
+        font-family: Font_Primary_Ligth;
+        letter-spacing: 3px;
+        font-size: 25px;
+        background: none;
+        border: solid 1px #F4EFE9;
+        padding: 5px;
+        justify-content: center;
+        text-align: center;
+    }
 
+    .Container_desayuno h4 {
+        color: #A58D6C;
+        margin-top: 20px;
+        font-family: Font_Secondary_Ligth;
+        text-align: center;
+        font-size: 15px;
+    }
 
+    .Style_Desayuno_List p {
+        font-family: Font_Secondary_Ligth;
+        font-size: 15px;
+    }
+
+    .Style_Desayuno_List h2 {
+        font-family: Font_Secondary_Bold;
+        font-size: 15px;
+    }
+
+    .Space_Style{
+        margin-top: 30px;
+    }
 
 
 }
@@ -88,6 +120,14 @@
     
     }
 
+    .Style_Desayuno_List h2{
+        border-bottom: none;
+    }
+
+
+    .Style_Entradas_List h2{
+        border-bottom: none !important;
+    }
 
 
 }

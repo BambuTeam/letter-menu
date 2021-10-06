@@ -26,7 +26,7 @@ const ListComida = () => {
                 <Row >
 
                     <Col xs={12} md={12} lg={12} className="Btn_Style_2 ">
-                    <Button>
+                    <Button href='#Entradas_click'>
                         ENTRADAS
                     </Button>
                     </Col>
@@ -34,7 +34,7 @@ const ListComida = () => {
                 <Row >
 
                     <Col xs={12} md={12} lg={12} className="Btn_Style_2">
-                    <Button>
+                    <Button href='#'>
                         PLATO PRINCIPAL
                     </Button>
                     </Col>
@@ -42,7 +42,7 @@ const ListComida = () => {
                 <Row >
 
                     <Col xs={12} md={12} lg={12} className="Btn_Style_2 ">
-                    <Button>
+                    <Button href='#'>
                         MENÚ DE NIÑOS
                     </Button>
                     </Col>
@@ -50,7 +50,7 @@ const ListComida = () => {
                 <Row >
 
                     <Col xs={12} md={12} lg={12} className="Btn_Style_2 ">
-                    <Button>
+                    <Button href='#'>
                         POSTRES
                     </Button>
                     </Col>
