@@ -187,7 +187,7 @@ const EntradasMenu = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Dip de Espinaca y Alcachofa </h2>
+                <h2>Sopa de Cebolla Bordeaux   </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
                 <h2>Q.80</h2>
@@ -197,7 +197,8 @@ const EntradasMenu = () => {
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Delicioso dip de espinaca y alcachofa servido en canasta de <br /> pan blanco.	.
+                    Receta original hecha a base de cebolla con vino bordeaux y <br /> sherry, gratinado con
+                    queso gruyere.		
                     </p>
                     </Col>
                 </Row>
@@ -210,19 +211,17 @@ const EntradasMenu = () => {
                  <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Carpaccio de Lomito </h2>
+                <h2>Sopa de Frijoles </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.95</h2>
+                <h2>Q.55</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Finas lascas de lomito marinado con limón, aceite de oliva, <br /> acompañada de 
-                    cebolla curtida, champiñones, tomate confit, <br /> alcaparras, pimienta fresca
-                    arúgula y parmesano.
+                    Nuestra sopa de frijoles típicamente chapina.
 
                     </p>
                     </Col>
