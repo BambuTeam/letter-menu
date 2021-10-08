@@ -287,18 +287,17 @@ const EntradasMenu = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Sopa de Cebolla Bordeaux   </h2>
+                <h2>Ensalada de Lentejas</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.80</h2>
+                <h2>Q.75</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Receta original hecha a base de cebolla con vino bordeaux y <br /> sherry, gratinado con
-                    queso gruyere.		
+                    Frescas lentejas con tocino y queso de cabra.
                     </p>
                     </Col>
                 </Row>
@@ -311,17 +310,18 @@ const EntradasMenu = () => {
                  <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Sopa de Frijoles </h2>
+                <h2>Ensalada San Cayetano   </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.55</h2>
+                <h2>Q.80</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Nuestra sopa de frijoles típicamente chapina.
+                    Arúgula, queso de cabra, pecanas y jamón serrano con <br /> vinagreta de naranja y pepitoria
+
 
                     </p>
                     </Col>
@@ -335,26 +335,51 @@ const EntradasMenu = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Sopa de Tortilla </h2>
+                <h2>Ensalada de Quinoa </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.65</h2>
+                <h2>Q.75</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Original receta de la finca, acompañada de chips de tortillas, <br /> queso fresco
-                    trozos de Aguacate y cilantro picado.							
-                    </p>
-                    <p>
-                    Con pollo	Q75.00
+                    Una base de espinaca y aguacate con pepino y cebolla roja,<br /> queso feta, tomate
+                    cherry y quinoa, aderezada con una <br /> vinagreta de mostaza Dijon.		
                     </p>
                     </Col>
                 </Row>
                 </Container>
-                
+                 {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Ensalada Caesar </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.75</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Lechuga romana con aderezo caesar de la casa, crotones a la <br /> brava y 
+                    lascas de queso grana padano.
+                    </p>
+                    <p>
+                    Con pollo		Q90.00		
+                    </p>
+                    <p>
+                    Con camarones	Q105.00
+                    </p>
+                    </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
                 
             </Container>
             <div>
