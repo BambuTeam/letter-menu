@@ -120,7 +120,7 @@ const PlatosPrincipales = () => {
             <br />
 
 
-            <div className="content_Entradas" id="Entradas_click">
+            <div className="content_Entradas" >
             <br />
             <Container className="Container_Entradas">
                 <Row >
@@ -242,10 +242,97 @@ const PlatosPrincipales = () => {
             <br />
         </div>
                 
-            <br />        
+            <br />
+
+            <div className="content_Entradas" >
+            <br />
+            <Container className="Container_Entradas">
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h1>CARNES A LA PARRILLA</h1>
+                    </Col>
+                </Row>
+
+                <div className="Space_Style"></div>
+
+                {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Lomito </h2>
+                </Col>
+                </Row>
+                <Row>
+                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
+                <p>08 oz. Q140.00 </p>
+                </Col>
+                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
+                <p>12 oz. Q170.00	 </p>
+                </Col>
+                
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
+
+                 {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Puyazo </h2>
+                </Col>
+                </Row>
+                <Row>
+                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
+                <p>08 oz. Q140.00 </p>
+                </Col>
+                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
+                <p>12 oz. Q170.00	 </p>
+                </Col>
+                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
+                <p>16 oz. Q240.00	 </p>
+                </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
+
+                  {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Entraña </h2>
+                </Col>
+                </Row>
+                <Row>
+                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
+                <p>08 oz. Q170.00 </p>
+                </Col>
+                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
+                <p>12 oz. Q230.00	 </p>
+                </Col>
+                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
+                <p>16 oz. Q290.00	 </p>
+                </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
+                
+            </Container>
+            <div>
+            <PatternMenu />
+            </div>
+            
+            
+               
 
 
         </div>
+        </div>
+
+
+        
 
 
 
