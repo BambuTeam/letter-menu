@@ -368,18 +368,17 @@ const PlatosPrincipales = () => {
 
                 <Container>
                 <Row>
-                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <Col xs={10} md={12} lg={12} className="Style_Entradas_List" >
                 <h2>Acompañamientos - elegir dos    </h2>
                 </Col>
-                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.240</h2>
-                </Col>
+                
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    8 oz. de lomito o puyazo asados a la parrilla con un pincho de camarones al ajo con hierbas.
+                    Papa al horno, ensalada mixta, puré de papa, arroz, vegetales a la parrilla, papas fritas <br />
+                    camotes fritos, guacamol.	
                     </p>
                     
                     </Col>
