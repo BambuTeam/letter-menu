@@ -318,6 +318,28 @@ const PlatosPrincipales = () => {
                 </Row>
                 </Container>
                  {/* E N D D E S A Y U N O S LIST */}
+                  {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Asado de Tira  </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.195</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    1 lb de delicioso corte de res importado con hueso, cocinado a fuego lento en vino tinto perfumado con romero,<br /> acompañado de espinaca salteada, champiñones, tomates cherry  cherry confitados y salsa de whisky <br /> con pimienta negra.
+                    </p>
+                    
+                    </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
                 
             </Container>
             <div>
