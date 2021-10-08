@@ -7,6 +7,7 @@ import PatternSection2 from './assets/components/Pattern2';
 import Desayunos from './assets/components/Desayunos';
 import ScrollToTop from "react-scroll-to-top";
 import EntradasMenu from './assets/components/Entradas';
+import PlatosPrincipales from './assets/components/PlatosPrincipales';
 
 
 
@@ -21,6 +22,7 @@ function App() {
     <PatternSection2 />
     <Desayunos />
     <EntradasMenu />
+    <PlatosPrincipales />
     <ScrollToTop smooth color="#A58D6C" />
     
     </>
