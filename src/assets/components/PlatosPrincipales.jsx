@@ -368,15 +368,15 @@ const PlatosPrincipales = () => {
 
                 <Container>
                 <Row>
-                <Col xs={10} md={12} lg={12} className="Style_Entradas_List" >
-                <h2>Acompañamientos - elegir dos    </h2>
+                <Col xs={10} md={12} lg={12} className="Style_Entradas_List Color_gold" >
+                <h2 >Acompañamientos - elegir dos    </h2>
                 </Col>
                 
 
                 </Row>
                 <Row>
-                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
-                    <p>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List Color_gold" >
+                    <p >
                     Papa al horno, ensalada mixta, puré de papa, arroz, vegetales a la parrilla, papas fritas <br />
                     camotes fritos, guacamol.	
                     </p>
