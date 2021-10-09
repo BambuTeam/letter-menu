@@ -10,6 +10,7 @@ import EntradasMenu from './assets/components/Entradas';
 import PlatosPrincipales from './assets/components/PlatosPrincipales';
 import Menuninos from './assets/components/Menuninos';
 import Postres from './assets/components/postres';
+import Bebidas from './assets/components/Bebidas';
 
 
 
@@ -27,6 +28,7 @@ function App() {
     <PlatosPrincipales />
     <Menuninos />
     <Postres />
+    <Bebidas />
     <ScrollToTop smooth color="#A58D6C" />
     
     </>
