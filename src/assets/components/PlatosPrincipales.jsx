@@ -385,11 +385,95 @@ const PlatosPrincipales = () => {
                 </Row>
                 </Container>
                  {/* E N D D E S A Y U N O S LIST */}
+
+                 {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={12} className="Style_Entradas_List Color_gold" >
+                <h2 >Salsas    </h2>
+                </Col>
+                
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List Color_gold" >
+                    <p >
+                    Pimienta negra, chirmol o chimichurri.	
+                    </p>
+                    
+                    </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
+
+                 <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                
+
+                </Row>
+
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h1>AVES</h1>
+                    </Col>
+                </Row>
+
+              {/* D E S A Y U N O S LIST */}
+
+              <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Pollo a la Marsala </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.119</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Pechuga de pollo cubierta con una salsa cremosa de vino <br />marsala y champiñones.
+                    </p>
+                    
+                    </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
+
+                   {/* D E S A Y U N O S LIST */}
+
+              <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Shish Tawouk</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.119</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Pechuga de pollo marinada al estilo libanés, con cebollas y <br />chiles pimientos salteados, ajo rostizado y salsa a base de <br /> yogurt y pepinillos. Acompañado de pan pita.  
+                    </p>
+                    
+                    </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
+              
+              
                 
             </Container>
             <div>
             <PatternMenu />
             </div>
+            
             
             
                
