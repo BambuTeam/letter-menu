@@ -9,6 +9,7 @@ import ScrollToTop from "react-scroll-to-top";
 import EntradasMenu from './assets/components/Entradas';
 import PlatosPrincipales from './assets/components/PlatosPrincipales';
 import Menuninos from './assets/components/Menuninos';
+import Postres from './assets/components/postres';
 
 
 
@@ -25,6 +26,7 @@ function App() {
     <EntradasMenu />
     <PlatosPrincipales />
     <Menuninos />
+    <Postres />
     <ScrollToTop smooth color="#A58D6C" />
     
     </>

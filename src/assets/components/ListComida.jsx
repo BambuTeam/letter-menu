@@ -50,7 +50,7 @@ const ListComida = () => {
                 <Row >
 
                     <Col xs={12} md={12} lg={12} className="Btn_Style_2 ">
-                    <Button href='#'>
+                    <Button href='#Postres'>
                         POSTRES
                     </Button>
                     </Col>
