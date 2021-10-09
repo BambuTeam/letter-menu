@@ -388,7 +388,8 @@ const Marmenu = () => {
 
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h1>AVES</h1>
+                <h1>SANDWICHES Y HAMBURGUESAS</h1>
+                <p className="Color_gold">Incluyen papas o camote fritos.</p>
                     </Col>
                 </Row>
 
@@ -397,17 +398,19 @@ const Marmenu = () => {
               <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Pollo a la Marsala </h2>
+                <h2>Caesar Sándwich   </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.119</h2>
+                <h2>Q.70</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Pechuga de pollo cubierta con una salsa cremosa de vino <br />marsala y champiñones.
+                    Pechuga de pollo, lechuga romana, aderezo caesar y queso <br /> parmesano 
+                    Servido en pan ciabatta.
+
                     </p>
                     
                     </Col>
@@ -420,17 +423,18 @@ const Marmenu = () => {
               <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Shish Tawouk</h2>
+                <h2>De la Finca</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.119</h2>
+                <h2>Q.75</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Pechuga de pollo marinada al estilo libanés, con cebollas y <br />chiles pimientos salteados, ajo rostizado y salsa a base de <br /> yogurt y pepinillos. Acompañado de pan pita.  
+                    Puntas de lomito, pimientos, cebolla morada y mezcla de <br /> quesos 
+                    jack-cheddar en pan baguette.  
                     </p>
                     
                     </Col>
@@ -439,7 +443,53 @@ const Marmenu = () => {
                  {/* E N D D E S A Y U N O S LIST */}
               
               
-           
+             {/* D E S A Y U N O S LIST */}
+
+             <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Hamburguesa Gourmet San Cayetano   </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.80</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Torta angus con queso gruyere, pepinillos y cebollas caramelizadas. 
+                    </p>
+                    
+                    </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
+
+                  {/* D E S A Y U N O S LIST */}
+
+             <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Pulled Pork Sándwich  </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.80</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Carne de cerdo ahumada y desmenuzada con salsa de <br /> barbacoa y repollo
+                    en un fresco pan brioche.
+
+                    </p>
+                    
+                    </Col>
+                </Row>
+                </Container>
+                 {/* E N D D E S A Y U N O S LIST */}
 
 
             
