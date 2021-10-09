@@ -47,36 +47,7 @@ const Postres= () => {
                  <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Mini Panqueques  </h2>
-                </Col>
-                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.55</h2>
-                </Col>
-
-                </Row>
-                <Row>
-                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
-                    <p>
-                    Masa de vainilla y granola. Acompañados de jamón o tocino y jugo de naranja.	
-
-                    </p>
-                    </Col>
-                </Row>
-                </Container>
-                
-                {/* E N D D E S A Y U N O S LIST */}
-                <Row>
-                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
-                <div></div>
-                </Col>
-                </Row>
-                <br />
-                {/* D E S A Y U N O S LIST */}
-
-                <Container>
-                <Row>
-                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Pizza de Jamón y Queso  </h2>
+                <h2>Alfajor Gigante de Maracuyá</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
                 <h2>Q.45</h2>
@@ -86,7 +57,32 @@ const Postres= () => {
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Mini pizza al estilo tradicional.		
+                    Relleno de crema de maracuyá cosechado en la finca, ideal para compartir.
+                    </p>
+                    </Col>
+                </Row>
+                </Container>
+                
+                {/* E N D D E S A Y U N O S LIST */}
+                >
+                <br />
+                {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Pecan Pie </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.45</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Tradicional receta de pecanas y miel de maple, <br /> acompañado de helado de
+                    Vainilla y salsa de arequipe.			
                     </p>
                     </Col>
                 </Row>
@@ -100,17 +96,19 @@ const Postres= () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Chicken Fingers  </h2>
+                <h2>Brownie San Cayetano </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.55</h2>
+                <h2>Q.45</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Deditos de pollo empanizados acompañados de papas fritas.	
+                    Deliciosa receta de la finca, relleno de dulce de leche y <br /> nueces.
+                    Acompañado de helado de vainilla.
+	
                     </p>
                     </Col>
                 </Row>
@@ -123,17 +121,17 @@ const Postres= () => {
                  <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Mozzarella Sticks  </h2>
+                <h2>Cheesecake </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.55</h2>
+                <h2>Q.45</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Bastoncitos de queso mozzarella empanizados, acompañados de salsa marinara.	
+                    Tradicional receta de la finca que consiste en una mezcla <br /> de queso suave, corteza de cítricos, azúcar y crocante de <br />galleta triturada, bañado en salsa de frutos rojos.
                     </p>
                     </Col>
                 </Row>
@@ -146,45 +144,16 @@ const Postres= () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Mini Spaghetti a la Bolognesa</h2>
+                <h2>Variedad de Helados	</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.55</h2>
+                <h2>Q.25</h2>
                 </Col>
 
                 </Row>
-                <Row>
-                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
-                    <p>
-                    Nido de pasta italiana con salsa de tomate y carne.		
-                    </p>
-                   
-                    </Col>
-                </Row>
+                
                 </Container>
-                 {/* D E S A Y U N O S LIST */}
-                 {/* D E S A Y U N O S LIST */}
-
-                <Container>
-                <Row>
-                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Hot Dog </h2>
-                </Col>
-                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.40</h2>
-                </Col>
-
-                </Row>
-                <Row>
-                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
-                    <p>
-                    Salchicha, ketchup, mayonesa y mostaza	
-                    </p>
-                   
-                    </Col>
-                </Row>
-                </Container>
-                 {/* D E S A Y U N O S LIST */}
+                
             </Container>
             <div>
             <PatternMenu />
