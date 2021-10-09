@@ -280,91 +280,28 @@ const Marmenu = () => {
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
                 <h1>PIZZAS</h1>
+                <p className="Color_gold">De 8 porciones, elaboradas con nuestra masa artesanal.</p>
                     </Col>
                 </Row>
 
                 <div className="Space_Style"></div>
-
-                {/* D E S A Y U N O S LIST */}
-
-                <Container>
-                <Row>
-                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Lomito </h2>
-                </Col>
-                </Row>
-                <Row>
-                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
-                <p>08 oz. Q140.00 </p>
-                </Col>
-                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
-                <p>12 oz. Q170.00	 </p>
-                </Col>
-                
-                </Row>
-                </Container>
-                 {/* E N D D E S A Y U N O S LIST */}
-
-                 {/* D E S A Y U N O S LIST */}
-
-                <Container>
-                <Row>
-                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Puyazo </h2>
-                </Col>
-                </Row>
-                <Row>
-                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
-                <p>08 oz. Q140.00 </p>
-                </Col>
-                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
-                <p>12 oz. Q170.00	 </p>
-                </Col>
-                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
-                <p>16 oz. Q240.00	 </p>
-                </Col>
-                </Row>
-                </Container>
-                 {/* E N D D E S A Y U N O S LIST */}
-
-                  {/* D E S A Y U N O S LIST */}
-
-                <Container>
-                <Row>
-                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Entraña </h2>
-                </Col>
-                </Row>
-                <Row>
-                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
-                <p>08 oz. Q170.00 </p>
-                </Col>
-                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
-                <p>12 oz. Q230.00	 </p>
-                </Col>
-                <Col xs={10} md={4} lg={4} className="Style_Entradas_List center_text" >
-                <p>16 oz. Q290.00	 </p>
-                </Col>
-                </Row>
-                </Container>
-                 {/* E N D D E S A Y U N O S LIST */}
                  <br />
                   {/* D E S A Y U N O S LIST */}
 
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Asado de Tira  </h2>
+                <h2>Capricciosa</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.195</h2>
+                <h2>Q.130</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    1 lb de delicioso corte de res importado con hueso, cocinado a fuego lento en vino tinto perfumado con romero,<br /> acompañado de espinaca salteada, champiñones, tomates cherry  cherry confitados y salsa de whisky <br /> con pimienta negra.
+                    Salsa de tomate, queso mozzarella, alcachofas, jamón, salami, <br /> champiñones y Aceitunas.	
                     </p>
                     
                     </Col>
@@ -376,60 +313,63 @@ const Marmenu = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Asado Mar y Tierra.   </h2>
+                <h2>Margherita</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.240</h2>
+                <h2>Q.105</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    8 oz. de lomito o puyazo asados a la parrilla con un pincho de camarones al ajo con hierbas.
+                    Salsa de tomate, queso mozzarella, tomate fresco y albahaca.
                     </p>
                     
                     </Col>
                 </Row>
                 </Container>
                  {/* E N D D E S A Y U N O S LIST */}
-
-                {/*ACOMPAÑAMIENTOS */}
+                    {/* D E S A Y U N O S LIST */}
 
                 <Container>
                 <Row>
-                <Col xs={10} md={12} lg={12} className="Style_Entradas_List Color_gold" >
-                <h2 >Acompañamientos - elegir dos    </h2>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Chicken Fajitas </h2>
                 </Col>
-                
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.130</h2>
+                </Col>
 
                 </Row>
                 <Row>
-                <Col xs={12} md={12} lg={12} className="Style_Entradas_List Color_gold" >
-                    <p >
-                    Papa al horno, ensalada mixta, puré de papa, arroz, vegetales a la parrilla, papas fritas <br />
-                    camotes fritos, guacamol.	
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Pizza estilo Tex Mex con fajitas de pollo, tomate, mezcla de quesos y verduras.
                     </p>
                     
                     </Col>
                 </Row>
                 </Container>
-                 {/* ACOMPAÑAMIENTOS */}
+                 {/* E N D D E S A Y U N O S LIST */}
 
                  {/* D E S A Y U N O S LIST */}
 
                 <Container>
                 <Row>
-                <Col xs={10} md={12} lg={12} className="Style_Entradas_List Color_gold" >
-                <h2 >Salsas    </h2>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>San Cayetano   </h2>
                 </Col>
-                
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.140</h2>
+                </Col>
 
                 </Row>
                 <Row>
-                <Col xs={12} md={12} lg={12} className="Style_Entradas_List Color_gold" >
-                    <p >
-                    Pimienta negra, chirmol o chimichurri.	
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Pizza con queso de cabra, cranberries, jamón serrano y arúgula <br />
+                    bañada con una salsa de vinagre balsámico.	
                     </p>
                     
                     </Col>
@@ -437,6 +377,7 @@ const Marmenu = () => {
                 </Container>
                  {/* E N D D E S A Y U N O S LIST */}
 
+               
                  <Row>
                 <Col xs={10} md={12} lg={6} className="Style_line_gold" >
                 <div></div>
