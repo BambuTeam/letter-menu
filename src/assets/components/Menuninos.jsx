@@ -18,6 +18,7 @@ const Menuninos= () => {
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
                 <h1>MENU DE NIÑOS</h1>
+                <p className="Color_gold">Menores de 10 años </p>
                     </Col>
                 </Row>
 
@@ -28,17 +29,17 @@ const Menuninos= () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Dip de Espinaca y Alcachofa </h2>
+                <h2>Desayuno Americano Infantil  </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.80</h2>
+                <h2>Q.55</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Delicioso dip de espinaca y alcachofa servido en canasta de <br /> pan blanco.	.
+                    Un huevo al gusto, papas salteadas, jamón o tocino y jugo de naranja.
                     </p>
                     </Col>
                 </Row>
@@ -51,24 +52,51 @@ const Menuninos= () => {
                  <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Carpaccio de Lomito </h2>
+                <h2>Mini Panqueques  </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.95</h2>
+                <h2>Q.55</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Finas lascas de lomito marinado con limón, aceite de oliva, <br /> acompañada de 
-                    cebolla curtida, champiñones, tomate confit, <br /> alcaparras, pimienta fresca
-                    arúgula y parmesano.
+                    Masa de vainilla y granola. Acompañados de jamón o tocino y jugo de naranja.	
 
                     </p>
                     </Col>
                 </Row>
                 </Container>
+                
+                {/* E N D D E S A Y U N O S LIST */}
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
+                <br />
+                {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Pizza de Jamón y Queso  </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.45</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Mini pizza al estilo tradicional.		
+                    </p>
+                    </Col>
+                </Row>
+                </Container>
+                
                 
                 {/* E N D D E S A Y U N O S LIST */}
 
@@ -77,40 +105,17 @@ const Menuninos= () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Dueto de Quesos </h2>
+                <h2>Chicken Fingers  </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.90</h2>
+                <h2>Q.55</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Queso brie horneado y queso de cabra frito, acompañado de <br /> chutney de fruta.	
-                    </p>
-                    </Col>
-                </Row>
-                </Container>
-                
-                {/* E N D D E S A Y U N O S LIST */}
-
-                {/* D E S A Y U N O S LIST */}
-
-                <Container>
-                <Row>
-                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Tortillas de Comal con Queso Chancol   </h2>
-                </Col>
-                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.65</h2>
-                </Col>
-
-                </Row>
-                <Row>
-                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
-                    <p>
-                    Tortillas rellenas de queso chancol fundido con orégano,<br /> tomillo, ajo y romero.
+                    Deditos de pollo empanizados acompañados de papas fritas.	
                     </p>
                     </Col>
                 </Row>
@@ -123,17 +128,17 @@ const Menuninos= () => {
                  <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Ahí Tuna Tartare  </h2>
+                <h2>Mozzarella Sticks  </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.90</h2>
+                <h2>Q.55</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Atún calidad sushi acompañado con picadillo de aguacate <br /> y plataninas.	
+                    Bastoncitos de queso mozzarella empanizados, acompañados de salsa marinara.	
                     </p>
                     </Col>
                 </Row>
@@ -146,30 +151,51 @@ const Menuninos= () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Mariscada Gratinada </h2>
+                <h2>Mini Spaghetti a la Bolognesa</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.130</h2>
+                <h2>Q.55</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Camarones, vieiras y calamares en salsa suprema y hierbas, <br /> gratinadas con 
-                    queso provolone y parmesano.	
+                    Nido de pasta italiana con salsa de tomate y carne.		
                     </p>
                    
                     </Col>
                 </Row>
                 </Container>
+                 {/* D E S A Y U N O S LIST */}
+                 {/* D E S A Y U N O S LIST */}
+
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Hot Dog </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.40</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    Salchicha, ketchup, mayonesa y mostaza	
+                    </p>
+                   
+                    </Col>
+                </Row>
+                </Container>
+                 {/* D E S A Y U N O S LIST */}
             </Container>
             <div>
             <PatternMenu />
             </div>
+           
 
-            
-           {/*  SOPITAS */}
             
            
 
