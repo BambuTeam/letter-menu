@@ -174,17 +174,17 @@ const Marmenu = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Ensalada de Lentejas</h2>
+                <h2>Capellini Cioppino </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.75</h2>
+                <h2>Q.130</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Frescas lentejas con tocino y queso de cabra.
+                    Pasta delgada con mariscos mixtos servida con salsa a base de <br /> tomate y albahaca.
                     </p>
                     </Col>
                 </Row>
@@ -197,19 +197,17 @@ const Marmenu = () => {
                  <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Ensalada San Cayetano   </h2>
+                <h2>Lomito con Fetuccine al Pesto</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.80</h2>
+                <h2>Q.139</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Arúgula, queso de cabra, pecanas y jamón serrano con <br /> vinagreta de naranja y pepitoria
-
-
+                    8 oz. de lomito montado sobre pasta fetuccini en salsa pesto de la <br /> casa, crocante de nueces y queso parmesano.
                     </p>
                     </Col>
                 </Row>
@@ -222,18 +220,19 @@ const Marmenu = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Ensalada de Quinoa </h2>
+                <h2>Gnocchi Quattro Formaggi  </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.75</h2>
+                <h2>Q.120</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Una base de espinaca y aguacate con pepino y cebolla roja,<br /> queso feta, tomate
-                    cherry y quinoa, aderezada con una <br /> vinagreta de mostaza Dijon.		
+                    Gnocchi cubierto con una salsa de queso de cabra, gruyere, <br /> parmesano
+                    y mozzarella
+		
                     </p>
                     </Col>
                 </Row>
@@ -244,24 +243,17 @@ const Marmenu = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Ensalada Caesar </h2>
+                <h2>Spaghetti a la Bolognesa </h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.75</h2>
+                <h2>Q.110</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Lechuga romana con aderezo caesar de la casa, crotones a la <br /> brava y 
-                    lascas de queso grana padano.
-                    </p>
-                    <p>
-                    Con pollo		Q90.00		
-                    </p>
-                    <p>
-                    Con camarones	Q105.00
+                    Tradicional con salsa de tomate, carne de res, tocino, vino tinto y verduras.
                     </p>
                     </Col>
                 </Row>
