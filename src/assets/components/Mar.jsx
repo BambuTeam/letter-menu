@@ -279,7 +279,7 @@ const Marmenu = () => {
             <Container className="Container_Entradas">
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h1>CARNES A LA PARRILLA</h1>
+                <h1>PIZZAS</h1>
                     </Col>
                 </Row>
 
