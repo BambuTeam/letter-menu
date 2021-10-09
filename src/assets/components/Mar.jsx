@@ -1,7 +1,6 @@
 import React from 'react';
 import { Col, Container, Row} from 'react-bootstrap';
 import PatternMenu from './PatternMenu';
-import Mar from './Mar';
 
 
 
@@ -10,8 +9,7 @@ import Mar from './Mar';
 
 
 
-
-const PlatosPrincipales = () => {
+const Marmenu = () => {
     return (
 
         <div className="content_Entradas" id="PPrincipales_click">
@@ -27,7 +25,7 @@ const PlatosPrincipales = () => {
             <Container className="Container_Entradas">
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h1>SOPAS</h1>
+                <h1>DEL MAR</h1>
                     </Col>
                 </Row>
 
@@ -38,18 +36,17 @@ const PlatosPrincipales = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Sopa de Cebolla Bordeaux   </h2>
+                <h2>Ceviche Chapín</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.80</h2>
+                <h2>Q.110</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Receta original hecha a base de cebolla con vino bordeaux y <br /> sherry, gratinado con
-                    queso gruyere.		
+                    Tradicional receta chapina de camarón, marinado con limón y hierbas aromáticas, tomate y <br /> cebolla, acompañado de galletas de maíz horneado.		
                     </p>
                     </Col>
                 </Row>
@@ -62,17 +59,17 @@ const PlatosPrincipales = () => {
                  <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Sopa de Frijoles </h2>
+                <h2>Ceviche Peruano</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.55</h2>
+                <h2>Q.125</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Nuestra sopa de frijoles típicamente chapina.
+                    Clásica receta peruana con róbalo y leche de tigre, cebolla <br /> morada, ajo, apio, cilantro y crocantes de marañón, acompañado <br />de plataninas.
 
                     </p>
                     </Col>
@@ -86,37 +83,76 @@ const PlatosPrincipales = () => {
                 <Container>
                 <Row>
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h2>Sopa de Tortilla </h2>
+                <h2>Robalo a la Plancha</h2>
                 </Col>
                 <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
-                <h2>Q.65</h2>
+                <h2>Q.149</h2>
                 </Col>
 
                 </Row>
                 <Row>
                 <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
                     <p>
-                    Original receta de la finca, acompañada de chips de tortillas, <br /> queso fresco
-                    trozos de Aguacate y cilantro picado.							
-                    </p>
-                    <p>
-                    Con pollo	Q75.00
+                    07 oz. de filete de róbalo bañado con una salsa de mostaza.
                     </p>
                     </Col>
                 </Row>
                 </Container>
+                {/* E N D D E S A Y U N O S LIST */}
                 
+                 {/* D E S A Y U N O S LIST */}
+
+                 <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <h2>Salmón en Salsa Cítrica  </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Entradas_List F_rigth" >
+                <h2>Q.149</h2>
+                </Col>
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List" >
+                    <p>
+                    07 oz. de filete de salmón con salsa de naranja y limón, cubierto <br /> con una costra
+                    de pistacho.	
+                    </p>
+                    </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+
+                 {/*ACOMPAÑAMIENTOS */}
+
+                 <Container>
+                <Row>
+                <Col xs={10} md={12} lg={12} className="Style_Entradas_List Color_gold" >
+                <h2 >Acompañamientos - elegir dos    </h2>
+                </Col>
                 
+
+                </Row>
+                <Row>
+                <Col xs={12} md={12} lg={12} className="Style_Entradas_List Color_gold" >
+                    <p >
+                    Papa al horno, ensalada mixta, puré de papa, arroz, <br />vegetales a la parrilla, papas fritas
+                    camotes fritos, guacamol.  
+	
+                    </p>
+                    
+                    </Col>
+                </Row>
+                </Container>
+                 {/* ACOMPAÑAMIENTOS */}
+                 <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
             </Container>
-            <div>
-            <PatternMenu />
-            </div>
 
-            
-
-            
-                
-            <br />
+           <br />
         </div>
                 
             <br />
@@ -127,7 +163,7 @@ const PlatosPrincipales = () => {
             <Container className="Container_Entradas">
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <h1>ENSALADAS</h1>
+                <h1>PASTAS</h1>
                     </Col>
                 </Row>
 
@@ -366,7 +402,7 @@ const PlatosPrincipales = () => {
                 </Container>
                  {/* E N D D E S A Y U N O S LIST */}
 
-                      {/* D E S A Y U N O S LIST */}
+                {/*ACOMPAÑAMIENTOS */}
 
                 <Container>
                 <Row>
@@ -386,7 +422,7 @@ const PlatosPrincipales = () => {
                     </Col>
                 </Row>
                 </Container>
-                 {/* E N D D E S A Y U N O S LIST */}
+                 {/* ACOMPAÑAMIENTOS */}
 
                  {/* D E S A Y U N O S LIST */}
 
@@ -481,7 +517,7 @@ const PlatosPrincipales = () => {
             <PatternMenu />
             </div>
             
-            <Mar />
+            
                
 
 
@@ -499,4 +535,4 @@ const PlatosPrincipales = () => {
         
     )
 }
-export default PlatosPrincipales;
+export default Marmenu;
