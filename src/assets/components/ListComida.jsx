@@ -17,7 +17,7 @@ const ListComida = () => {
 
                     <Col xs={12} md={12} lg={12} className="Btn_Style_2 ">
                     
-                    <Button href='#Desayuno_click' >
+                    <Button href='#Desayuno_bebidas' >
                         DESAYUNOS
                     </Button>
                     

@@ -4,6 +4,10 @@
   and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
 
+    .Container_Entradas h1{
+        font-size: 35px !important;
+    }
+
     .Logo-Menu img{
         width: 80%;
     }
