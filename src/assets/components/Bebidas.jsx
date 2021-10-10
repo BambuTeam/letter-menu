@@ -817,7 +817,102 @@ const Bebidas = () => {
                     </Col>
                 </Row>
 
-
+               {/* D E S A Y U N O S LIST */}
+               <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Jose Cuervo Blanco</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.40</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+               <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Jose Cuervo Reposado</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.40</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+               <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Jose Cuervo Tradicional </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.55</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */} 
+                {/* D E S A Y U N O S LIST */}
+               <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Don Julio Blanco </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.60</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */} 
+                {/* D E S A Y U N O S LIST */}
+               <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Don Julio Añejo </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.75</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+               <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Don Julio 70 </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.90</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+               <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Mezcal Ilegal Joven </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.70</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+               <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Mezcal Ilegal Reposado	 </h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.80</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
 
 
 
