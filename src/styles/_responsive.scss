@@ -1,4 +1,4 @@
-@media only screen 
+/* @media only screen 
   and (min-device-width: 300px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
@@ -109,9 +109,9 @@
 
 
 }
+ */
 
-
-@media only screen 
+/* @media only screen 
   and (min-device-width: 412px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
@@ -221,7 +221,7 @@
 
 
 }
-
+ */
 
 
 
@@ -249,3 +249,109 @@
 
 
 }
+
+@media (max-width: 575.98px) { 
+
+    .styles_scroll-to-top__2A70v{
+        margin-right: 150px;
+    }
+
+    .Container_Entradas h1{
+        font-size: 35px !important;
+    }
+
+    .Logo-Menu img{
+        width: 80%;
+    }
+
+    .Patter_img img{
+        display: block;
+        margin: 0 auto;
+        
+    }
+
+    .Btn_Style_1 img{
+        display: none;
+
+        
+    }
+
+    .Btn_Style_1 button{
+        text-align: center;
+        padding: 5px;
+
+        :active{
+        padding: 5px;
+
+        }
+
+    }
+
+    .border-bottom{
+        border-bottom: solid 1px #F4EFE9;
+        padding-top: 100px;
+    }
+
+
+    .Btn_Style_1 button:hover {
+        font-family: Font_Primary_Medium;
+        border-radius: 3px;
+        background-color: #F4EFE9;
+        border: solid 1px #F4EFE9;
+        color: #1C3532;
+        padding: 5px;
+    }
+
+    .Btn_Style_1 .btn-primary:focus {
+        font-family: Font_Primary_Medium;
+        border-radius: 3px;
+        background-color: #F4EFE9 !important;
+        border: solid 1px #F4EFE9;
+        color: #1C3532;
+        padding: 5px;
+        box-shadow: 0 0 0 0.25rem rgb(244 239 233 / 50%) !important;
+    }
+
+    .border-rigth {
+        border-right: none;
+
+        
+    }
+
+    
+    a.btn.btn-primary{
+        width: 80%;
+        border-radius: 0px;
+        font-family: Font_Primary_Ligth;
+        letter-spacing: 3px;
+        font-size: 20px;
+        background: none;
+        border: solid 1px #F4EFE9;
+        padding: 5px;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .Container_desayuno h4 {
+        color: #A58D6C;
+        margin-top: 20px;
+        font-family: Font_Secondary_Ligth;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .Style_Desayuno_List p {
+        font-family: Font_Secondary_Ligth;
+        font-size: 15px;
+    }
+
+    .Style_Desayuno_List h2 {
+        font-family: Font_Secondary_Bold;
+        font-size: 10px;
+    }
+
+    .Space_Style{
+        margin-top: 20px;
+    }
+
+ }
