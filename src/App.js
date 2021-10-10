@@ -29,7 +29,7 @@ function App() {
     <Menuninos />
     <Postres />
     <Bebidas />
-    <ScrollToTop smooth color="#A58D6C" />
+    <ScrollToTop smooth color="#1C3532" />
     
     </>
       );

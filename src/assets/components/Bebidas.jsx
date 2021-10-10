@@ -469,7 +469,10 @@ const Bebidas = () => {
                 </Col>
                 </Row>
                 
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
                 <h1>VODKA</h1>
+                    </Col>
                 
                 </Col>
                 </Row>
