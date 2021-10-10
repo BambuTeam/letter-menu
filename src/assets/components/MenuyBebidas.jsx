@@ -23,7 +23,7 @@ const MenuYBebidas = () => {
                     </Col>
                     <Col xs={12} md={12} lg={6} className="Btn_Style_1">
                     <img    src={Icobebida} alt="ico-restaurante" />
-                    <Button>
+                    <Button href='#Click_bebidas'>
                     BEBIDAS
                     </Button>
                     </Col>

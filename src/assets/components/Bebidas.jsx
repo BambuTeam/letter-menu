@@ -11,7 +11,7 @@ import PatternMenu from './PatternMenu';
 const Bebidas = () => {
     return (
 
-        <div className="content_desayunos" id="Desayuno_click">
+        <div className="content_desayunos" id="Click_bebidas">
             <br />
             <Container fluid className="Container_desayuno">
                 <Row >
