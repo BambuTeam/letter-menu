@@ -1,3 +1,4 @@
+
 import './App.css';
 import MenuCover from './assets/pages/menu-cover';
 import PatternSection from './assets/components/pattern';
@@ -11,6 +12,10 @@ import PlatosPrincipales from './assets/components/PlatosPrincipales';
 import Menuninos from './assets/components/Menuninos';
 import Postres from './assets/components/postres';
 import Bebidas from './assets/components/Bebidas';
+
+import Modal from './assets/components/Modal';
+
+
 
 
 
@@ -29,6 +34,7 @@ function App() {
     <Menuninos />
     <Postres />
     <Bebidas />
+    <Modal />
     <ScrollToTop smooth color="#1C3532" />
     
     </>
