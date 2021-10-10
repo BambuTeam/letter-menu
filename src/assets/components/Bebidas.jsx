@@ -261,6 +261,7 @@ const Bebidas = () => {
                 <h1>FRÍOS</h1>
                     </Col>
                 </Row>
+                
 
 
     {/* D E S A Y U N O S LIST */}
@@ -337,6 +338,11 @@ const Bebidas = () => {
 
                 </Row>
                 </Container>
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
                 
                 {/* E N D D E S A Y U N O S LIST */}
 
@@ -457,8 +463,14 @@ const Bebidas = () => {
                 </Row>
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
-                <br />
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
+                
                 <h1>VODKA</h1>
+                
                 </Col>
                 </Row>
                 {/* D E S A Y U N O S LIST */}
@@ -508,6 +520,11 @@ const Bebidas = () => {
                 </Col>
                 </Row>
                 </Container>
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
                 {/* E N D D E S A Y U N O S LIST */}
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
@@ -549,6 +566,11 @@ const Bebidas = () => {
                 </Col>
                 </Row>
                 </Container>
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
                 <br />
