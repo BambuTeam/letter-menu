@@ -16,7 +16,7 @@ const MenuYBebidas = () => {
 
                     <Col xs={12} md={12} lg={6} className="Btn_Style_1 border-rigth">
                     <img   src={Icorestaurante} alt="ico-restaurante" />
-                    <Button>
+                    <Button href='#Entradas_click'>
                        COMIDA
                     </Button>
                     
