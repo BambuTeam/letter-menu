@@ -804,7 +804,88 @@ const Bebidas = () => {
                 </Col>
                 </Row>
                 </Container>
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
                 {/* E N D D E S A Y U N O S LIST */}
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
+                <h1>TEQUILA Y MEZCAL</h1>
+                    </Col>
+                </Row>
+
+
+
+
+
+
+
+
+
+
+
+
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
+                <h1>CÓCTELES</h1>
+                    </Col>
+                </Row>
+
+
+
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
+                <h1>CERVEZAS EN BOTELLA</h1>
+                    </Col>
+                </Row>
+
+
+
+
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
+                <h1>CERVEZAS EN BARRIL</h1>
+                    </Col>
+                </Row>
+
+
+
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
+                <h1>CERVEZAS ARTESANALES</h1>
+                    </Col>
+                </Row>
+
+
+
+
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
+                <h1>GASEOSAS</h1>
+                    </Col>
+                </Row>
+
+
+
+
+
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
+                <h1>BEBIDAS NATURALES</h1>
+                    </Col>
+                </Row>
+
+
+
 
                 </Container>
                 {/* E N D D E S A Y U N O S LIST */}
