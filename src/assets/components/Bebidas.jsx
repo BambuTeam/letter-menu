@@ -1501,17 +1501,137 @@ const Bebidas = () => {
                 </Row>
                 </Container>
                 {/* E N D D E S A Y U N O S LIST */}
-
-
-
-
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
                 <Row >
                 <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
                 <br />
                 <h1>BEBIDAS NATURALES</h1>
                     </Col>
                 </Row>
-
+                {/* D E S A Y U N O S LIST */}
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Jugos variados</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.20</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Jugo de tomate preparado</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.30</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Jugo verde</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.35</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Limonada</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.20</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Limonada Especial</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.25</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                  {/* D E S A Y U N O S LIST */}
+                  <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Naranjada</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.20</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                 {/* D E S A Y U N O S LIST */}
+                 <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Piña colada S/Licor	</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.35</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                 {/* D E S A Y U N O S LIST */}
+                 <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Rosa de Jamaica	</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.20</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                 {/* D E S A Y U N O S LIST */}
+                 <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Té frío		</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.20</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
+                {/* D E S A Y U N O S LIST */}
+                <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Smoothie	</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.35</h2>
+                </Col>
+                </Row>
+                </Container>
+                {/* E N D D E S A Y U N O S LIST */}
 
 
 
