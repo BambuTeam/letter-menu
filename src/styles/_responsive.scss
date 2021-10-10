@@ -5,7 +5,9 @@
   and (orientation: portrait) {
 
     .styles_scroll-to-top__2A70v{
-        margin-right: 150px;
+        margin-right: 20px;
+        background-color: #1c353269;
+        
     }
 
     .Container_Entradas h1{
@@ -72,14 +74,14 @@
 
     
     a.btn.btn-primary{
-        width: 90%;
+        width: 70%;
         border-radius: 0px;
         font-family: Font_Primary_Ligth;
-        letter-spacing: 3px;
+        letter-spacing: 2px;
         font-size: 25px;
         background: none;
         border: solid 1px #F4EFE9;
-        padding: 5px;
+        padding: px;
         justify-content: center;
         text-align: center;
     }
@@ -98,7 +100,8 @@
     }
 
     .Style_Desayuno_List h2 {
-        font-family: Font_Secondary_Bold;
+        font-family: Font_Secondary_Normal;
+        font-weight: 700;
         font-size: 15px;
     }
 
