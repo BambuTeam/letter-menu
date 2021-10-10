@@ -12,7 +12,6 @@ import PlatosPrincipales from './assets/components/PlatosPrincipales';
 import Menuninos from './assets/components/Menuninos';
 import Postres from './assets/components/postres';
 import Bebidas from './assets/components/Bebidas';
-
 import Modal from './assets/components/Modal';
 
 
