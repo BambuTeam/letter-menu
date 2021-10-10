@@ -187,11 +187,84 @@ const Bebidas = () => {
                 </Col>
 
                 </Row>
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
+
+                <Row >
+                <Col xs={10} md={12} lg={10} className="Style_Entradas_List" >
+                <br />
+                <h1>MÉTODOS</h1>
+                    </Col>
+                </Row>
+
+
+                 {/* D E S A Y U N O S LIST */}
+
+                 <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>V60</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.30</h2>
+                </Col>
+
+                </Row>
                 </Container>
                 
                 {/* E N D D E S A Y U N O S LIST */}
 
+                  {/* D E S A Y U N O S LIST */}
 
+                  <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Chemex</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.30</h2>
+                </Col>
+
+                </Row>
+                </Container>
+                
+                {/* E N D D E S A Y U N O S LIST */}
+
+                  {/* D E S A Y U N O S LIST */}
+
+                  <Container>
+                <Row>
+                <Col xs={10} md={12} lg={10} className="Style_Desayuno_List" >
+                <h2>Aeropress</h2>
+                </Col>
+                <Col xs={2} md={12} lg={2} className="Style_Desayuno_List F_rigth" >
+                <h2>Q.30</h2>
+                </Col>
+
+                </Row>
+                </Container>
+                
+                {/* E N D D E S A Y U N O S LIST */}
+
+                <Row>
+                <Col xs={10} md={12} lg={6} className="Style_line_gold" >
+                <div></div>
+                </Col>
+                </Row>
+
+                </Container>
+                
+               
+
+                <div className="Space_Style"></div>
+                
+                {/* E N D D E S A Y U N O S LIST */}
+
+
+                
 
 
                 
@@ -200,10 +273,7 @@ const Bebidas = () => {
 
             <PatternMenu />
             </div>
-            <div>
-
-            <PatternMenu />
-            </div>
+            
 
             <Container>
                 
