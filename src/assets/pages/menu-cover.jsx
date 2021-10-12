@@ -1,24 +1,22 @@
-import React from 'react';
-import { Col, Container, Row } from 'react-bootstrap';
-import LogoMenu from '../img/logo-menu.svg';
-
+import React from "react";
+import { Col, Container, Row } from "react-bootstrap";
+import LogoMenu from "../img/logo-menu.svg";
 
 const MenuCover = () => {
-    return (
+  const [modal, setModal] = useState(true);
 
-        <div className=" ">
-            <br />
-            <Container className="Logo-Menu">
-                <Row >
-
-                    <Col className="">
-
-                    <img src={LogoMenu} alt="Logo" />
-                    </Col>
-                </Row>
-                
-            </Container>
-        </div>
-    )
-}
+  return (
+    <div className=" ">
+      <br />
+      <Container className="Logo-Menu">
+        <Row>
+          <Col className="">
+            <img src={LogoMenu} alt="Logo" />
+          </Col>
+        </Row>
+        <OfertaModel onClose={() => setModal(false)} show={modal} />
+      </Container>
+    </div>
+  );
+};
 export default MenuCover;
