@@ -1,7 +1,7 @@
-import React from "react";
+import React, { useState } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import LogoMenu from "../img/logo-menu.svg";
-
+import OfertaModal from "../components/OfertaModal";
 const MenuCover = () => {
   const [modal, setModal] = useState(true);
 
@@ -14,7 +14,7 @@ const MenuCover = () => {
             <img src={LogoMenu} alt="Logo" />
           </Col>
         </Row>
-        <OfertaModel onClose={() => setModal(false)} show={modal} />
+        <OfertaModal onClose={() => setModal(false)} show={modal} />
       </Container>
     </div>
   );
